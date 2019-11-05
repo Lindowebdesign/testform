@@ -1,4 +1,3 @@
-
 echo "tesforma.tk" > CNAME
 git add -A
 git commit -m “Added CNAME file.”
